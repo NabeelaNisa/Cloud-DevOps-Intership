@@ -16,4 +16,4 @@ flowchart TD
 * **OS Environment:** Ubuntu 26.04 LTS
 * **Version Control System:** Git
 * **Authentication Method:** SSH Public/Private Keypair
-* **Remote Host:** GitHub (`https://github.com/NabeelaNisa/Cloud-DevOps-Intership`)
+* **Remote Host:** GitHub ([https://github.com/NabeelaNisa/Cloud-DevOps-Intership](https://github.com/NabeelaNisa/Cloud-DevOps-Intership))
